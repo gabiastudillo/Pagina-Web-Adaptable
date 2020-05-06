@@ -424,3 +424,20 @@ footer{
         font-size: 20px;
     }
 }
+
+
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    color: #f2f2f2;
+}
+
+.links a{
+    margin: 0 30px;
+}
+
+.links a i {
+    font-size: 3rem;
+}
